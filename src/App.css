@@ -17,11 +17,12 @@ img {
 
 p {
   font-family:  "Comic Sans MS", "Comic Sans";
+  src: "./comici.ttf";
 }
 
 h1 {
   font-family: "Comic Sans MS", "Comic Sans";
-  src: url("comic-sans-ms/comici.ttf");
+  src: "./comici.ttf";
 }
 
 .wrapper {
