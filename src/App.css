@@ -3,8 +3,8 @@
 }
 
 p {
-  padding-right: 50px; 
-  padding-left: 50px; 
+  padding-right: 30%; 
+  padding-left: 30%; 
 }
 
 img {
@@ -22,10 +22,7 @@ p {
 h1 {
   font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
-body {
-  background-image: url("background.png")
-}
 
 .wrapper {
-  padding-top: 20%;
+  padding-top: 5%
 }

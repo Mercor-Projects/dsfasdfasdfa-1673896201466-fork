@@ -13,7 +13,7 @@ function Picture() {
 
 function Subtitle() {
   return (
-    <h1>Adarsh Hiremath</h1>
+      <h1>Adarsh Hiremath</h1>
   ); 
 }
 
@@ -22,7 +22,7 @@ function Biography() {
     <div className = "biographyContent">
       <p>hi, i'm adarsh (ah-dhursh). i study computer science, mathematics, and economics at harvard.</p>
       <p>currently, i'm building <a href = "https://mercor.io" target="_blank">mercor</a>, a software developer vetting and job placement platform. i also do research about inflation. in my free time, i help coach bellarmine college prep's policy debate debate team.</p>
-      <p>previously, i was an ML research intern at IBM, SWE at Stanford CIBSR, and SWE at 1WorldOnline.</p>
+      <p>previously, i was an ML research intern @ IBM, SWE @ Stanford CIBSR, and SWE @ 1WorldOnline.</p>
       <p>i taught myself how to juggle 5 balls last summer, i can slice a banana in half by throwing playing cards, i'm learning how to DJ, i can custom make longboard decks, and i put milk in my bowl before the cereal.</p>
       <p>academic interests: computer vision, LLMs, macroeconomics, and full stack web development. </p>
       <p>skills (in order of proficiency): python (pytorch, numpy, pandas, django), react, typescript, AWS (S3, Lambda, EC2, Cognito, Dynamo DB, Cloudfront), mongo DB, firebase, java, C, MATLAB</p>
