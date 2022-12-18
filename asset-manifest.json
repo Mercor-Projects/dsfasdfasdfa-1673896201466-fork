@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ahiremathh.github.io/static/css/main.bc3a0794.css",
+    "main.js": "/ahiremathh.github.io/static/js/main.b423c0bd.js",
+    "static/media/background.png": "/ahiremathh.github.io/static/media/background.74e975966bd77388d36c.png",
+    "static/media/pfp.jpg": "/ahiremathh.github.io/static/media/pfp.d1a5789ee19bd5150fb8.jpg",
+    "index.html": "/ahiremathh.github.io/index.html",
+    "main.bc3a0794.css.map": "/ahiremathh.github.io/static/css/main.bc3a0794.css.map",
+    "main.b423c0bd.js.map": "/ahiremathh.github.io/static/js/main.b423c0bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc3a0794.css",
+    "static/js/main.b423c0bd.js"
+  ]
+}
