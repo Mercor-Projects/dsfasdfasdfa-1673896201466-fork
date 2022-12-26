@@ -26,7 +26,7 @@ function Biography() {
       <p>i taught myself how to juggle 5 balls last summer, i can slice a banana in half by throwing playing cards, i'm learning how to DJ, i can custom make longboard decks, and i put milk in my bowl before the cereal.</p>
       <p>academic interests: computer vision, LLMs, macroeconomics, and full stack web development. </p>
       <p>skills (in order of proficiency): python (pytorch, numpy, pandas, django), react, typescript, AWS (S3, Lambda, EC2, Cognito, Dynamo DB, Cloudfront), mongo DB, firebase, java, C, MATLAB</p>
-      <p>links: <a href = "https://github.com/ahiremathh" target="_blank">github</a>, <a href = "https://twitter.com/adarshhiremath8" target="_blank">twitter</a>, <a href = "https://www.linkedin.com/in/adarsh-h-623941204/" target="_blank">linkedin</a></p>
+      <p>links: <a href = "https://github.com/ahiremathh" target="_blank">github</a>, <a href = "https://twitter.com/adarsh_exe" target="_blank">twitter</a>, <a href = "https://www.linkedin.com/in/adarsh-h-623941204/" target="_blank">linkedin</a></p>
       <p>contact me at ahiremath@college.harvard.edu</p>
     </div>
   ); 
